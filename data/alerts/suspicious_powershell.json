@@ -1,0 +1,8 @@
+{
+  "id": "A001",
+  "title": "Suspicious PowerShell Execution",
+  "severity": "High",
+  "user": "alice",
+  "host": "FIN-PC01",
+  "description": "PowerShell launched with base64 encoded commands."
+}

@@ -1,0 +1,12 @@
+You are a SOC analyst.
+
+Analyze the alert below.
+
+Return:
+1. Executive Summary
+2. Verdict
+3. Confidence Score (0-100)
+
+Alert:
+
+{alert}
